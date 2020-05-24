@@ -1,0 +1,10 @@
+# glynn,
+# jekyll
+name: Soonish
+markdown: kramdown
+highlighter: rouge
+encoding: utf-8
+
+exclude: [Gemfile, Gemfile.lock, bin, README.md, assertfail.sublime-project, requirements.txt]
+plugins:
+  - jekyll-seo-tag
